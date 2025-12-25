@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//n8n//Event Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:event-1766671629644-0@yourdomain.com
+DTSTAMP:20251225T140709Z
+DTSTART:20251031T183000
+DTEND:20251031T213000
+SUMMARY:Cultural Fall Festival
+LOCATION:Tarbiya House Roseville\, Natomas\, & Elk Grove
+DESCRIPTION:It's finally that time of the year! Join us this Friday\, October 31st\, from 6:30 pm - 9:30 pm at any of our Tarbiya Houses for our Cultural Fall Festival! We have so many exciting things in store for you all to enjoy with the family: Delicious Food\, Exciting Games\, Beautiful Culture\, and so much more!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-1766671629644-1@yourdomain.com
+DTSTAMP:20251225T140709Z
+DTSTART:20251122T100000
+DTEND:20251123T180000
+SUMMARY:100 Years of Palestine
+LOCATION:Tarbiya House Roseville
+DESCRIPTION:Tarbiya Institute is honored to host the “100 Years of Palestine” Immersive Exhibition on November 22–23\, from 10:00 AM to 6:00 PM\, at Tarbiya House in Roseville\, with group appointments available on November 24–25. This powerful cultural experience invites our community to reflect on the history\, resilience\, and beauty of Palestine through art\, imagery\, historical artifacts\, and traditional craftsmanship.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-1766671629644-2@yourdomain.com
+DTSTAMP:20251225T140709Z
+DTSTART:20251106T190000
+DTEND:20251106T210000
+SUMMARY:[Roseville] Lives of the Sahaba
+LOCATION:Tarbiya House Roseville
+DESCRIPTION:Alhamdulillah\, our first session on October 2 launched beautifully — with a full house\, warm snacks\, and timeless spiritual and historical lessons drawn from the life and love of Mus‘ab ibn ‘Umair (ra). The night was filled with Qur’an reading\, reflection\, and suhbah that nourished hearts and minds. Join us for the next session on Thursday\, November 6\, at 7:00 PM at Tarbiya Roseville\, as we journey through the story of Salman al-Farisi (ra) — from fire to faith.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-1766671629644-3@yourdomain.com
+DTSTAMP:20251225T140709Z
+DTSTART:20251102T113000
+DTEND:20251102T133000
+SUMMARY:Roseville Tafseerah
+LOCATION:Tarbiya House Roseville
+DESCRIPTION:Surah Al-Ahzab III
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-1766671629644-4@yourdomain.com
+DTSTAMP:20251225T140709Z
+DTSTART:20251102T113000
+DTEND:20251102T133000
+SUMMARY:Natomas Tafseerah
+LOCATION:Tarbiya House Natomas
+DESCRIPTION:Surah Al A'raf XIII
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-1766671629644-5@yourdomain.com
+DTSTAMP:20251225T140709Z
+DTSTART:20251109T180000
+DTEND:20251109T200000
+SUMMARY:Celebrating the Power of Partnerships for Good
+LOCATION:Laguna Town Hall\, 3020 Renwick Ave\, Elk Grove\, CA 95758
+DESCRIPTION:Ihsan Foundation for West Africa invites you to our End-of-Year Supporters’ Dinner: Celebrating the Power of Partnerships for Good Featuring inspiring words from Sh. Ala Elbakri\, Imam Zaid Shakir\, and Dr. Ahmed Bangura.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
