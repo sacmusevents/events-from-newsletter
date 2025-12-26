@@ -4,63 +4,43 @@ PRODID:-//n8n//Event Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:event-1766672290430-0@yourdomain.com
-DTSTAMP:20251225T141810Z
-DTSTART:20251031T183000Z
-DTEND:20251031T213000Z
-SUMMARY:Cultural Fall Festival
-LOCATION:Tarbiya House Roseville\, Natomas\, & Elk Grove
-DESCRIPTION:Join us this Friday\, October 31st\, from 6:30 pm - 9:30 pm at any of our Tarbiya Houses for our Cultural Fall Festival! We have so many exciting things in store for you all to enjoy with the family: Delicious Food\, Exciting Games\, Beautiful Culture\, and so much more!
+UID:event-1766718041777-0@yourdomain.com
+DTSTAMP:20251226T030041Z
+DTSTART:20260111T100000Z
+DTEND:20260517T140000Z
+SUMMARY:Weekend School - Spring Semester
+LOCATION:SALAM Islamic Center
+DESCRIPTION:Our Weekend School provides a structured Sunday routine built on: Qur’an memorization • Quranic Arabic (Qaida Noorania) • Islamic Studies in a warm environment where students are supported and encouraged.
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:event-1766672290430-1@yourdomain.com
-DTSTAMP:20251225T141810Z
-DTSTART:20251122T100000Z
-DTEND:20251123T180000Z
-SUMMARY:100 Years of Palestine
-LOCATION:Tarbiya House Roseville
-DESCRIPTION:Tarbiya Institute is honored to host the “100 Years of Palestine” Immersive Exhibition on November 22–23\, from 10:00 AM to 6:00 PM\, at Tarbiya House in Roseville\, with group appointments available on November 24–25. This powerful cultural experience invites our community to reflect on the history\, resilience\, and beauty of Palestine through art\, imagery\, historical artifacts\, and traditional craftsmanship.
+UID:event-1766718041777-1@yourdomain.com
+DTSTAMP:20251226T030041Z
+DTSTART:20260109T000000Z
+DTEND:20260111T000000Z
+SUMMARY:Sisters Winter Retreat
+LOCATION:Arnold\, CA
+DESCRIPTION:Calling all young professional Muslim women (18–35)! Join us for a Mentor-Led Sisters Winter Retreat in Arnold\, CA. This is a weekend designed to reset your heart and mind through sisterhood\, prayer\, and reflection.
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:event-1766672290430-2@yourdomain.com
-DTSTAMP:20251225T141810Z
-DTSTART:20251106T190000Z
-DTEND:20251106T210000Z
-SUMMARY:[Roseville] Lives of the Sahaba
-LOCATION:Tarbiya House Roseville
-DESCRIPTION:Join us for the next session on Thursday\, November 6\, at 7:00 PM at Tarbiya Roseville\, as we journey through the story of Salman al-Farisi (ra) — from fire to faith.
+UID:event-1766718041777-2@yourdomain.com
+DTSTAMP:20251226T030041Z
+DTSTART:20251225T120000Z
+DTEND:20251225T140000Z
+SUMMARY:Arabic Khutba by Shaykh Achour El-Qaddoury
+LOCATION:SALAM Islamic Center
+DESCRIPTION:Arabic-Language Jumuah - Every Friday at 12 pm
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:event-1766672290430-3@yourdomain.com
-DTSTAMP:20251225T141810Z
-DTSTART:20251102T113000Z
-DTEND:20251102T133000Z
-SUMMARY:Roseville Tafseerah
-LOCATION:Tarbiya House Roseville
-DESCRIPTION:Surah Al-Ahzab III
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:event-1766672290430-4@yourdomain.com
-DTSTAMP:20251225T141810Z
-DTSTART:20251102T113000Z
-DTEND:20251102T133000Z
-SUMMARY:Natomas Tafseerah
-LOCATION:Tarbiya House Natomas
-DESCRIPTION:Surah Al A'raf XIII
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:event-1766672290430-5@yourdomain.com
-DTSTAMP:20251225T141810Z
-DTSTART:20251109T180000Z
-DTEND:20251109T200000Z
-SUMMARY:Celebrating the Power of Partnerships for Good
-LOCATION:Laguna Town Hall\, 3020 Renwick Ave\, Elk Grove\, CA 95758
-DESCRIPTION:Ihsan Foundation for West Africa invites you to our End-of-Year Supporters’ Dinner: Celebrating the Power of Partnerships for Good Featuring inspiring words from Sh. Ala Elbakri\, Imam Zaid Shakir\, and Dr. Ahmed Bangura.
+UID:event-1766718041777-3@yourdomain.com
+DTSTAMP:20251226T030041Z
+DTSTART:20251225T131500Z
+DTEND:20251225T151500Z
+SUMMARY:Khutba by Imam Yasir Khan
+LOCATION:SALAM Islamic Center
+DESCRIPTION:English-Language Jumuah - Every Friday at 1:15 pm
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
