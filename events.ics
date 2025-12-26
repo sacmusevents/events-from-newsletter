@@ -3,14 +3,4 @@ VERSION:2.0
 PRODID:-//n8n//Event Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-BEGIN:VEVENT
-UID:event-1766761233237-0@yourdomain.com
-DTSTAMP:20251226T150033Z
-DTSTART:20260124T100000Z
-DTEND:20260124T120000Z
-SUMMARY:Living Trust Workshop\, Documents to Funding
-LOCATION:2999 Douglas Blvd\, Roseville
-DESCRIPTION:This session is designed for parents and families who want to complete their living trust documents the same day with on site partners\, including signing and notarization. If you’re only looking for a general overview\, this may not be the right fit. Chamber registration is free for seat management and planning\, and any legal services\, document preparation\, notarization\, filing\, or recording are handled and paid separately with the provider.
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR
