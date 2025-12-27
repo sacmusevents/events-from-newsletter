@@ -4,33 +4,43 @@ PRODID:-//n8n//Event Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:event-1766775632632-0@yourdomain.com
-DTSTAMP:20251226T190032Z
-DTSTART:20251226T121500Z
-DTEND:20251226T141500Z
-SUMMARY:First Jumu'ah
-LOCATION:Watch Live on YouTube\, click here (https://www.youtube.com/@MuslimCommunityofFolsom)
-DESCRIPTION:Sheikh Mohammed Desai - Humility
+UID:event-1766804432071-0@yourdomain.com
+DTSTAMP:20251227T030032Z
+DTSTART:20260111T100000Z
+DTEND:20260517T140000Z
+SUMMARY:Weekend School - Spring Semester
+LOCATION:SALAM Islamic Center
+DESCRIPTION:Our Weekend School provides a structured Sunday routine built on: Qur’an memorization • Quranic Arabic (Qaida Noorania) • Islamic Studies in a warm environment where students are supported and encouraged.
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:event-1766775632632-1@yourdomain.com
-DTSTAMP:20251226T190032Z
-DTSTART:20251226T131500Z
-DTEND:20251226T151500Z
-SUMMARY:Second Jumu'ah
-LOCATION:Watch Live on YouTube\, click here (https://www.youtube.com/@MuslimCommunityofFolsom)
-DESCRIPTION:Sheikh Yousef Hussin - Surat Al-Ikhlas
+UID:event-1766804432130-1@yourdomain.com
+DTSTAMP:20251227T030032Z
+DTSTART:20260109T090000Z
+DTEND:20260109T110000Z
+SUMMARY:[Sisters] Winter Retreat
+LOCATION:Arnold\, CA
+DESCRIPTION:Calling all young professional Muslim women (18–35)! Join us for a Mentor-Led Sisters Winter Retreat in Arnold\, CA. This is a weekend designed to reset your heart and mind through sisterhood\, prayer\, and reflection.
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:event-1766775632632-2@yourdomain.com
-DTSTAMP:20251226T190032Z
-DTSTART:20251230T184500Z
-DTEND:20251230T204500Z
-SUMMARY:MCF Board Meeting
-LOCATION:MCF Multi-Purpose Room
-DESCRIPTION:MCF Board Meetings – Open to the Community
+UID:event-1766804432130-2@yourdomain.com
+DTSTAMP:20251227T030032Z
+DTSTART:20251225T120000Z
+DTEND:20251225T140000Z
+SUMMARY:Arabic Khutba
+LOCATION:SALAM Islamic Center
+DESCRIPTION:Arabic-Language Jumuah
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-1766804432131-3@yourdomain.com
+DTSTAMP:20251227T030032Z
+DTSTART:20251225T131500Z
+DTEND:20251225T151500Z
+SUMMARY:English Khutba
+LOCATION:SALAM Islamic Center
+DESCRIPTION:English-Language Jumuah
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
